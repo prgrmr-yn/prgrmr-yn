@@ -22,8 +22,6 @@ You can click the Preview link to take a look at your changes.
   Hi I'm Yatin, Software Developer from MELBOURNE, AUSTRALIA
   <br>
   <br>
-  👨‍🎓 I currently finished the 6 month Ruby on Rails bootcamp in Melbourne, Australia
-  <br>
   💻 I love Writing code, Keen on Hardware and learning anything about them 😊
   <br>
   📚 I’m currently focusing on Software development and shell scripting
